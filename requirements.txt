@@ -1,0 +1,17 @@
+librosa
+transformers
+torch
+groq
+python-dotenv
+psutil
+sounddevice
+numpy
+scipy
+pyautogui
+requests
+PySide6
+soundfile
+torchaudio
+edge-tts
+pygame
+pyaudio

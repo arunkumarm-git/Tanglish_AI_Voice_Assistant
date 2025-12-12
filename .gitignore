@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+program_opener/__pycache__/
+
+# Virtual environment
+myenv/
+.env
+
+# Media & large files
+media/
+whisper_medium/
+clg logo.jpg
+Mini_project_video_evidence.mp4
+recorded_audio.wav
+
+# Generated / temporary files
+current_project_structure.txt
+test.ipynb
+test.py
+
+# PPTX files (large)
+24MDT1131_mini_project_Final review_review.pptx
+24MDT1131_mini_project_2nd_review.pptx
